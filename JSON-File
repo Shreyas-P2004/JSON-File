@@ -1,0 +1,403 @@
+[
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619816400000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+ {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619817000000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+},
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619817600000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619817600000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619818200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619818800000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619824200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619824800000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619824800000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 23
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619826000000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619826000000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 25
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 23
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 23
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 26
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 24
+    }
+  },
+  {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 27
+    }
+  },
+   {
+    "deviceID": "19ff3161-2b3a-40a3-8604-bdc6532d0dab",
+    "deviceType": "CNC",
+    "timestamp": 1619827200000,
+    "location": {
+      "country": "japan",
+      "city": "tokyo",
+      "area": "keiyō-industrial-zone",
+      "factory": "daikibo-factory-meiyo",
+      "section": "section-1"
+    },
+    "data": {
+      "status": "healthy",
+      "temperature": 23
+    }
+  },
+  
+  
