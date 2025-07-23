@@ -22,6 +22,9 @@ Fair (+-10)
 Unfair (<-10 AND >10)
 Highly Discriminative (<-20 AND >20)
 
+# Task
+<a href = "https://github.com/Shreyas-P2004/JSON-File/blob/main/Task%205%20Equality%20Table.xlsx"> Equity table </a>
+
 
 
 
