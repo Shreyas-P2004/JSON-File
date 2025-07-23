@@ -14,3 +14,13 @@ Developed a project in tableau involving data analysis and forensic technology b
 # Dataset used
 <a href="https://github.com/Shreyas-P2004/JSON-File/blob/main/JSON-File">Telemetry dataset</a>
 
+# Process
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
+
+Created a 4th column (Equality class), classifying the equality score into 3 types:
+Fair (+-10)
+Unfair (<-10 AND >10)
+Highly Discriminative (<-20 AND >20)
+
+
+
